@@ -23,4 +23,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
