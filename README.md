@@ -8,6 +8,7 @@
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
 | [0322-coin-change](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0322-coin-change/) | Medium |
+| [1046-last-stone-weight](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/1046-last-stone-weight/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
