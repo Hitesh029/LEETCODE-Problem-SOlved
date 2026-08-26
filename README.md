@@ -41,6 +41,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0322-coin-change](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0322-coin-change/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
