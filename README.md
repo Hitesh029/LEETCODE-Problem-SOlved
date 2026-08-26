@@ -50,4 +50,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0322-coin-change/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
