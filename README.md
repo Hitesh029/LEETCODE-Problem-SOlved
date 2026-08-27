@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0056-merge-intervals/) | Medium |
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
@@ -27,6 +28,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0054-spiral-matrix/) | Medium |
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -84,4 +86,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0056-merge-intervals/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
