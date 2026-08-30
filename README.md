@@ -60,10 +60,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -73,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
