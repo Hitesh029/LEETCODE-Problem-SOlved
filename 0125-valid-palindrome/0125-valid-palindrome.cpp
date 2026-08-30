@@ -1,16 +1,48 @@
 class Solution {
 public:
+
+    bool valid(char c) {
+
+        if(c >= 'a' && c <= 'z')
+            return true;
+
+        if(c >= 'A' && c <= 'Z')
+            return true;
+
+        if(c >= '0' && c <= '9')
+            return true;
+
+        return false;
+    }
+
+    char lower(char c) {
+
+        if(c >= 'A' && c <= 'Z')
+            return c - 'A' + 'a';
+
+        return c;
+    }
+
     bool isPalindrome(string s) {
-        string temp = "";
-        for(int i = 0; i < s.size(); i++) 
-        {
-            if(isalnum(s[i])) 
-            {
-                temp += tolower(s[i]);
-            }
+
+        int left = 0;
+        int right = s.size() - 1;
+
+        while(left < right) {
+
+            while(left < right && !valid(s[left]))
+                left++;
+
+            while(left < right && !valid(s[right]))
+                right--;
+
+            if(lower(s[left]) != lower(s[right]))
+                return false;
+
+            left++;
+            right--;
         }
-        string rev = temp;
-        reverse(rev.begin(), rev.end());
-        return temp == rev;
+
+        return true;
     }
 };
