@@ -17,18 +17,21 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0049-group-anagrams/) | Medium |
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
 | [0125-valid-palindrome](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0242-valid-anagram/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
