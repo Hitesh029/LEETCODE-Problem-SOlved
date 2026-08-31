@@ -9,12 +9,14 @@
 | [0056-merge-intervals](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0056-merge-intervals/) | Medium |
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0322-coin-change/) | Medium |
 | [1046-last-stone-weight](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/1046-last-stone-weight/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +28,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0056-merge-intervals/) | Medium |
+| [0217-contains-duplicate](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0217-contains-duplicate/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
