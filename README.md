@@ -46,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +118,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0143-reorder-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
