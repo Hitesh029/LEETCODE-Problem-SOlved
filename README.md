@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0056-merge-intervals/) | Medium |
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
+| [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0322-coin-change/) | Medium |
 | [1046-last-stone-weight](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/1046-last-stone-weight/) | Easy |
@@ -24,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0049-group-anagrams/) | Medium |
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
 | [0125-valid-palindrome](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0125-valid-palindrome/) | Easy |
+| [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -42,6 +44,7 @@
 | ------- | ------- |
 | [0077-combinations](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
+| [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0054-spiral-matrix/) | Medium |
+| [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +126,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0371-sum-of-two-integers/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->
