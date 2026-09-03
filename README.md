@@ -75,6 +75,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/1046-last-stone-weight/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -136,4 +139,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0704-binary-search/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
