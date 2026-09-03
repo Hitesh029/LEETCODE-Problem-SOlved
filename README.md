@@ -13,6 +13,7 @@
 | [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0322-coin-change/) | Medium |
+| [0704-binary-search](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0704-binary-search/) | Easy |
 | [1046-last-stone-weight](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/1046-last-stone-weight/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -131,4 +132,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
