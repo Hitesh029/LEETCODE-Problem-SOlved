@@ -130,6 +130,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0069-sqrtx/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -138,6 +139,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0704-binary-search/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -151,4 +153,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
