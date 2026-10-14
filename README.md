@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0057-insert-interval/) | Medium |
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
+| [0078-subsets](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0217-contains-duplicate/) | Easy |
@@ -48,11 +49,13 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Dynamic Programming
