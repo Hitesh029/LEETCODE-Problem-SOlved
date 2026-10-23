@@ -30,6 +30,7 @@
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
 | [0125-valid-palindrome](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
@@ -139,6 +140,7 @@
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
