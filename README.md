@@ -18,6 +18,7 @@
 | [0322-coin-change](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0322-coin-change/) | Medium |
 | [0704-binary-search](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0704-binary-search/) | Easy |
 | [1046-last-stone-weight](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/1046-last-stone-weight/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | [0078-subsets](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0371-sum-of-two-integers/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
