@@ -12,6 +12,7 @@
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
 | [0078-subsets](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
+| [0204-count-primes](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0204-count-primes/) | Medium |
 | [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0322-coin-change/) | Medium |
@@ -141,6 +142,7 @@
 | [0069-sqrtx](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0204-count-primes](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0204-count-primes/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -167,4 +169,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0069-sqrtx/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
