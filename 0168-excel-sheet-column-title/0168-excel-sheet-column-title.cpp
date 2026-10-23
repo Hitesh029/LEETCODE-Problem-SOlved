@@ -1,7 +1,22 @@
 class Solution {
 public:
     string convertToTitle(int columnNumber) {
-        string ans = "";
+         if(columnNumber == 0)
+            return "";
+
+        columnNumber--;
+
+        return convertToTitle(columnNumber / 26)
+             + char('A' + columnNumber % 26);
+    
+        
+        
+        
+        
+        
+        
+        
+        /*string ans = "";
 
         while(columnNumber > 0) {
             columnNumber--;
@@ -14,6 +29,8 @@ public:
 
         reverse(ans.begin(), ans.end());
 
-        return ans;
+        return ans;*/
+
+
     }
 };
