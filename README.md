@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0057-insert-interval/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0068-text-justification/) | Hard |
 | [0078-subsets](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0090-subsets-ii/) | Medium |
@@ -66,6 +67,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0064-minimum-path-sum/) | Medium |
 | [0322-coin-change](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0322-coin-change/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0054-spiral-matrix/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0064-minimum-path-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/Hitesh029/LEETCODE-Problem-SOlved/tree/main/0212-word-search-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
